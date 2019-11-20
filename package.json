@@ -10,4 +10,7 @@
     "author": "Pratiksha and Dipal",
     "private": true,
     "main": "index.js"
+    "scripts": {
+        "start": "node index.js"
+    }
 }
