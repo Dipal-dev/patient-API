@@ -9,8 +9,8 @@
     },
     "author": "Pratiksha and Dipal",
     "private": true,
-    "main": "index.js"
+    "main": "index.js",
     "scripts": {
-        "start": "node index.js"
-    }
+		"start": "node index.js"
+	}
 }
